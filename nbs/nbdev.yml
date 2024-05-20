@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_cards"
+  site-url: "https://mildhorton.github.io/nbdev_cards"
+  description: "trying to follow along with Mr. Howard"
+  repo-branch: main
+  repo-url: "https://github.com/mildhorton/nbdev_cards"
